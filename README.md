@@ -1,10 +1,3 @@
-# 启动教程
-
-- 项目录屏：https://www.bilibili.com/video/BV1Zp421Z7w9
-- 启动教程：https://www.bilibili.com/video/BV1pW4y1P7GR
-- 安装包在视频详情中已提供。
-
-
 # 项目简介
 基于Vue.js和SpringBoot的洗衣店订单管理系统，分为管理后台和用户网页端，可以给管理员、顾客、店家角色使用，包括顾客管理、店铺管理、衣服类型管理、洗衣信息管理、洗衣订单管理、交流区模块和系统基础模块，项目编号T068。
 
